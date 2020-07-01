@@ -22,7 +22,7 @@ p{
 .half-width{
     width: 40%;
     float: left;
-    margin-left: 0px;
+    margin: 0px 60px 0px 60px;
    padding-left: 5px;
 }
 .half-width img{
